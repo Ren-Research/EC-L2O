@@ -18,4 +18,8 @@ This is the official implementation of the SIGMETRICS 2022 paper
 git clone git@github.com:Ren-Research/EC-L2O.git
 cd EC-L2O
 ```
+* Install required packages
+```bash
+pip install -r requirements.txt
+```
 
