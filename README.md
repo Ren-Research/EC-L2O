@@ -23,3 +23,11 @@ cd EC-L2O
 pip install -r requirements.txt
 ```
 
+
+## Quick start for training
+* Run the code
+```bash
+python train_unroll_batch.py  config_example.json
+```
+You can visualize the training statistics using tensorboard.
+
