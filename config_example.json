@@ -1,0 +1,12 @@
+{   
+    "epoch_num": 25,
+    "lr_list": [4e-4, 3e-4, 2e-4, 1e-4, 6e-5, 3e-5],
+    "batch_size": 50,
+    "w": 10.0, 
+    "l_1": 1.0,
+    "l_2": 0.2317,
+    "l_3": 0.1,
+    "min_cr":2,
+    "mtl_list": [0.0],
+    "base_log_dir": "./ec_l2o_log/"
+}
