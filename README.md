@@ -6,7 +6,7 @@
 
 **Note**
 
-This is the official implementation of the SIGMETRICS 2022 paper 
+This is the official implementation of the SIGMETRICS 2022 [paper](https://dl.acm.org/doi/10.1145/3530894) 
 
 ## Requirements
 
