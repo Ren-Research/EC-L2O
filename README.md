@@ -1,6 +1,6 @@
 # Expert-Calibrated Learning for Online Optimization with Switching Costs
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) [![arxiv](https://img.shields.io/badge/cs.AI-arXiv%3A2204.08572-B31B1B.svg)](https://arxiv.org/abs/2204.08572)
 
 [Pengfei Li](https://www.cs.ucr.edu/~pli081/), [Jianyi Yang](https://jyang-ai.github.io/) and [Shaolei Ren](https://intra.ece.ucr.edu/~sren/)
 
